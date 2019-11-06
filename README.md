@@ -25,7 +25,7 @@ This is a barebones app with two models, `Author` and `Post`. Right now, you can
 - [Create an author](http://localhost:3000/authors/new)
 - [Edit a post](http://localhost:3000/posts/1/edit)
 
-To complete this lab, you will need to:
+Too complete this lab, you will need to:
 
 1. Add validations to `Author` such that...
   1. The name cannot be blank
